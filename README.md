@@ -118,8 +118,6 @@ an appropriate heuristic and a new comparison method.
 - test_search.py: correctness checks.
 - results/: the recorded benchmark and environment details.
 - images/: supplied application screenshots.
-- docs/PRESENTATION_GUIDE.md: a six-minute speaking plan and Q&A practice.
-- docs/CODE_GUIDE.md: a plain-language explanation of the source files.
 
 ## Sources and assistance
 
