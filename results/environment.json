@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-11-17T10:53:08.654833+00:00",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+  "repeats": 50,
+  "warmup_runs": 3,
+  "timing": "Validation, search, and path reconstruction; excludes drawing and animation.",
+  "expanded_cells": "Cells removed from the frontier and processed, including start and goal when reached.",
+  "movement": "Up, right, down, left. Every move costs 1. No diagonals.",
+  "astar_heuristic": "Manhattan distance; ties prefer larger g, then (row, column).",
+  "note": "Small timing differences are noisy. Fewer expansions need not imply faster execution."
+}
