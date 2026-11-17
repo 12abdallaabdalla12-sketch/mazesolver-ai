@@ -128,6 +128,3 @@ an appropriate heuristic and a new comparison method.
 - Python Tkinter documentation:
   https://docs.python.org/3.14/library/tkinter.html
 
-ChatGPT assisted with code generation, debugging guidance, analysis, and writing.
-The supplied implementation was checked against automated tests and actual
-benchmark output. The project does not copy the Berkeley assignment source.
